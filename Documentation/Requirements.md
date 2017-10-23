@@ -19,20 +19,20 @@
 
 ### 2.2 Интерфейс пользователя
 
-1. Ниже представлен шаблон главной страницы приложения:
-![.](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Main%20Page.png)
+Ниже представлен шаблон главной страницы приложения
+![](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Main%20Page.png)
 
-2. Страница профиля пользователя:
-![.](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Profile.png)
+Страница профиля пользователя:
+![](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Profile.png)
 
-3. Страница просмотра публикаций:
-![.](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Post%20page.png)
+Страница просмотра публикаций:
+![](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Post%20page.png)
 
-4. Страница создания и редактирования публикаций:
-![.](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Post%20Creation.png)
+Страница создания и редактирования публикаций:
+![](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Post%20Creation.png)
 
-5. Создание и редактирование публикаций есть возможности аутентифицированных пользователей. Ниже приведен шаблон страницы для входа в систему:
-![.](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Login%20page.png)
+Создание и редактирование публикаций есть возможности аутентифицированных пользователей. Ниже приведен шаблон страницы для входа в систему:
+![](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Login%20page.png)
 
 ### 2.3 Характеристики пользователей
 
@@ -115,4 +115,5 @@
 
 1. фреймворка Spring framework 4;
 2. библиотеки Hibernate;
-3. Реляционной БД "MySQL"; 
+3. Реляционной БД "MySQL";
+4. фреймворка Angular 2;
