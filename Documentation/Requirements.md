@@ -20,19 +20,19 @@
 ### 2.2 Интерфейс пользователя
 
 Ниже представлен шаблон главной страницы приложения
-![](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Main%20Page.png)
+![](https://github.com/ReemBer/ProgNotes/tree/master/Documentation/Mockup/Main%20Page.png)
 
 Страница профиля пользователя:
-![](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Profile.png)
+![](https://github.com/ReemBer/ProgNotes/tree/master/Documentation/Mockup/Profile.png)
 
 Страница просмотра публикаций:
-![](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Post%20page.png)
+![](https://github.com/ReemBer/ProgNotes/tree/master/Documentation/Mockup/Post%20page.png)
 
 Страница создания и редактирования публикаций:
-![](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Post%20Creation.png)
+![](https://github.com/ReemBer/ProgNotes/tree/master/Documentation/Mockup/Post%20Creation.png)
 
 Создание и редактирование публикаций есть возможности аутентифицированных пользователей. Ниже приведен шаблон страницы для входа в систему:
-![](https://github.com/ReemBer/ProgNotes/blob/master/Mockup/Login%20page.png)
+![](https://github.com/ReemBer/ProgNotes/tree/master/Documentation/Mockup/Login%20page.png)
 
 ### 2.3 Характеристики пользователей
 
