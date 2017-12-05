@@ -2,8 +2,10 @@ package by.bsuir.prognotes;
 
 import by.bsuir.prognotes.security.SecurityConfiguration;
 import by.bsuir.prognotes.web.WebConfiguration;
+import org.modelmapper.ModelMapper;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Import;
 import org.springframework.context.annotation.PropertySource;
 
@@ -14,5 +16,10 @@ public class PrognotesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PrognotesApplication.class, args);
+	}
+
+	@Bean
+	public ModelMapper modelMapper() {
+		return new ModelMapper();
 	}
 }
